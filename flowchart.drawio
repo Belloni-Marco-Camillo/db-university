@@ -411,7 +411,7 @@
                 <mxCell id="132" value="" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#2A2A2A;strokeColor=#2A2A2A;" vertex="1" parent="1">
                     <mxGeometry x="950" y="465" width="160" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="133" value="-ID_Studente&#10;-ID_Appello" style="align=left;strokeColor=#2A2A2A;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#2A2A2A;" vertex="1" parent="132">
+                <mxCell id="133" value="-ID_Studente&#10;-ID_Appello&#10;&#10;-voto" style="align=left;strokeColor=#2A2A2A;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#2A2A2A;" vertex="1" parent="132">
                     <mxGeometry y="30" width="160" height="90" as="geometry"/>
                 </mxCell>
             </root>
